@@ -1,4 +1,4 @@
-<img width="810" height="2268" alt="image" src="https://github.com/user-attachments/assets/16ba9160-c80c-4f81-8162-27c41a6f5292" /><h1 align="center">Hi 👋, I'm Prasanth Varanasi</h1>
+<h1 align="center">Hi 👋, I'm Prasanth Varanasi</h1>
 
 <h3 align="center">
 Senior DevSecOps Engineer | AWS | Kubernetes | Terraform | GitOps | Agentic AI
