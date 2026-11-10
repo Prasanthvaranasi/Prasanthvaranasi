@@ -94,6 +94,6 @@ RAG-powered chatbot for automating L1 support operations.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/prasanth-devops)
+[LinkedIn](linkedin.com/in/prasanth-devops)
 
 📧 venkatasaiprasanth.varanasi@gmail.com
